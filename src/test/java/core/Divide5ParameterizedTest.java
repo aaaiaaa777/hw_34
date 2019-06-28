@@ -10,7 +10,7 @@ import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
 
 @RunWith(Parameterized.class)
-public class Divide2ParameterizedTest {
+public class Divide5ParameterizedTest {
 
 //Test data generator 
 	@Parameters (name = "Parameter # {index}: {1} / {2} / {3} / {4} / {5}= {0}")
